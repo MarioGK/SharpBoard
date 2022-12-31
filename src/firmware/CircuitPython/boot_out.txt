@@ -1,0 +1,4 @@
+Adafruit CircuitPython 8.0.0-beta.6 on 2022-12-21; S2Mini with ESP32S2-S2FN4R2
+Board ID:lolin_s2_mini
+UID:84722E64560D
+boot.py output:
